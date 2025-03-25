@@ -9,8 +9,7 @@
 
 ## 🌟 **About Me**
 - 👩‍💻 Passionate about **Web Designing, UI/UX & App Development**  
-- 🌱 Currently diving into **Artificial Intelligence & Backend Development**  
-- 🚀 Building an **LMS for Megahack 5.0** with **React.js, Node.js, Django & MongoDB**  
+- 🌱 Currently diving into **Artificial Intelligence & Backend Development**   
 - 🎯 Open to collaborations on **Web & App Design Projects**  
 - ✨ Creating **user-friendly & visually stunning** digital experiences  
 
