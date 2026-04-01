@@ -7,92 +7,25 @@
   🚀 Web Designer | UI/UX Enthusiast | Frontend Developer
 </h3>
 
-<!-- TYPING ANIMATION -->
+---
+
+# 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=26&center=true&vCenter=true&width=600&lines=Designing+Beautiful+User+Experiences;Frontend+Developer+%7C+Creative+Thinker;Building+Modern+Web+Interfaces;Always+Learning+New+Tech+🚀" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</p>
+# 💫 About Me:
+🌟 About Me<br>I am a passionate Web Designer and UI/UX Enthusiast who enjoys building  <br>clean, responsive, and user-friendly digital experiences.<br><br>- 💻 Skilled in Frontend Development & Design<br>- 🌱 Currently exploring AI and Backend Technologies<br>- 🎯 Focused on improving my skills and building impactful projects<br>- 🤝 Open to collaborations and learning opportunities
 
----
 
-# 💫 About Me
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/purvipanvalkar23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/purvi-panwalkar-950b66258/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@panwalkarsayali27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panwalkarpurvi@gmail.com) 
 
-✨ I am a passionate **Web Designer & UI/UX Enthusiast** who loves creating  
-modern, clean, and user-friendly digital experiences.
-
-🔹 Skilled in **Frontend Development & Design**  
-🔹 Exploring **AI & Backend Technologies**  
-🔹 Focused on building **impactful real-world projects**  
-🔹 Open to **collaboration & innovation**
-
----
-
-# 🚀 What I Do
-
-🧠 UI/UX Design (Figma, Canva, Framer)  
-💻 Frontend Development (React, JS, HTML, CSS)  
-⚡ Responsive & Interactive Web Design  
-📊 Data Visualization & Dashboards  
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.behance.net/purvipanvalkar23"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/purvi-panwalkar-950b66258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@panwalkarsayali27"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="mailto:panwalkarpurvi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-# ⚡ Tech Stack
-
-### 💻 Languages
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-
-### 🎨 Frontend & Design
-![React](https://skillicons.dev/icons?i=react)
-![Vite](https://skillicons.dev/icons?i=vite)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Canva](https://skillicons.dev/icons?i=figma)
-
-### ⚙️ Backend & Tools
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Postman](https://skillicons.dev/icons?i=postman)
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PurviPanwalkar&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PurviPanwalkar&theme=radical&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurviPanwalkar&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PurviPanwalkar&theme=radical&no-frame=true&margin-w=10"/>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=plastic&logo=esbuild&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 ---
 
@@ -110,25 +43,29 @@ modern, clean, and user-friendly digital experiences.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
+
 ---
 
-# 🐍 Contribution Snake
+<h2 align="center">📊 Developer Activity Dashboard</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PurviPanwalkar&theme=tokyonight" width="95%"/>
 </p>
 
 ---
 
-# 👀 Profile Views
+<h3 align="center">📅 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PurviPanwalkar&icon=5&color=12"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurviPanwalkar&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
 
-<!-- FOOTER -->
+
+<h3 align="center">⚡ Activity Breakdown</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PurviPanwalkar&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PurviPanwalkar&theme=tokyonight&utcOffset=5"/>
 </p>
