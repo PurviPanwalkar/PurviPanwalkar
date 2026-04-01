@@ -70,15 +70,6 @@
 
 ---
 
-<!-- CONTRIBUTIONS LIST -->
-<h3 align="center">🚀 Top Contributions</h3>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=PurviPanwalkar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
 # 🎯 Current Focus
 
 🚀 Building real-world UI/UX projects  
