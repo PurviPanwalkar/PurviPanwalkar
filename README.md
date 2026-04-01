@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <h1 align="center">
-  👋 Hi, I'm Purvi Panwalkar
+   Hi, I'm Purvi Panwalkar
 </h1>
 
 <h3 align="center">
-  🚀 Web Designer | UI/UX Enthusiast | Frontend Developer
+  Web Designer | UI/UX Enthusiast | Frontend Developer
 </h3>
 
 ---
@@ -30,6 +30,55 @@
 
 ---
 
+<!-- ===================== DASHBOARD ===================== -->
+
+<h2 align="center">📊 Developer Dashboard</h2>
+
+<!-- MAIN PROFILE SUMMARY -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PurviPanwalkar&theme=tokyonight" width="95%"/>
+</p>
+
+---
+
+<!-- CONTRIBUTION GRAPH (LIKE GRID STYLE) -->
+<h3 align="center">📅 Contribution Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurviPanwalkar&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+<!-- ACTIVITY SPLIT (COMMITS / PR / ISSUES) -->
+<h3 align="center">⚡ Activity Breakdown</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PurviPanwalkar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PurviPanwalkar&theme=tokyonight&utcOffset=5" />
+</p>
+
+---
+
+<!-- LANGUAGE + REPO ANALYTICS -->
+<h3 align="center">💻 Code Insights</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PurviPanwalkar&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PurviPanwalkar&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- CONTRIBUTIONS LIST -->
+<h3 align="center">🚀 Top Contributions</h3>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=PurviPanwalkar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
 # 🎯 Current Focus
 
 🚀 Building real-world UI/UX projects  
@@ -45,28 +94,3 @@
 </p>
 
 
----
-
-<h2 align="center">📊 Developer Activity Dashboard</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PurviPanwalkar&theme=tokyonight" width="95%"/>
-</p>
-
----
-
-<h3 align="center">📅 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurviPanwalkar&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-
-<h3 align="center">⚡ Activity Breakdown</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PurviPanwalkar&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PurviPanwalkar&theme=tokyonight&utcOffset=5"/>
-</p>
