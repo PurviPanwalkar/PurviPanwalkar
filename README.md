@@ -39,7 +39,7 @@ https://github.com/PurviPanwalkar?tab=repositories
 
 ## 📊 GitHub Stats
 
-![Purvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PurviPanwalkar&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PurviPanwalkar&show_icons=true&theme=default)
 
 ---
 
