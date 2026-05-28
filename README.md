@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Web Designer | UI/UX Enthusiast | Frontend Developer
+  Full Stack Developer | UI/UX Enthusiast 
 </h3>
 
 ---
